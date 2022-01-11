@@ -1,0 +1,6 @@
+region = "us-east-1"
+access_key = "AKIATXWNBQERUJUPJB5F"
+secret_key ="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"
+own_vpc = "vpc-e5b4dc98"
+security_group_name = "sg_my_server"
+security_group_description = "my_security_group"
